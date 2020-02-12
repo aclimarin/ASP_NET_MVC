@@ -1,0 +1,444 @@
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\ApplicationInsights.config
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Vidly.dll.config
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Vidly.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Vidly.pdb
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\csc.exe
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\csc.exe.config
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\csc.rsp
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\csi.exe
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\csi.exe.config
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\csi.rsp
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Console.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.IO.Compression.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.IO.Pipes.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Security.AccessControl.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Security.Claims.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Security.Principal.Windows.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.ValueTuple.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Xml.XPath.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\vbc.exe
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\vbc.exe.config
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\vbc.rsp
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Antlr3.Runtime.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\EntityFramework.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AI.Web.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Newtonsoft.Json.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Owin.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Diagnostics.DiagnosticSource.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.Helpers.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.Http.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.Mvc.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.Optimization.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.Razor.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.WebPages.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\WebGrease.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.Helpers.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.Mvc.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.Optimization.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.Razor.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.WebPages.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Newtonsoft.Json.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.Http.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\EntityFramework.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.Diagnostics.DiagnosticSource.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.AI.Web.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipType.resources
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayToCustomer.resources
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\AutoMapper.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.ValueTuple.dll
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\AutoMapper.pdb
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\AutoMapper.xml
+D:\the-complete-aspnet-mvc-5-course\Projects\Vidly\Vidly\bin\System.ValueTuple.xml
+D:\Cursos\Vidly\Vidly\bin\ApplicationInsights.config
+D:\Cursos\Vidly\Vidly\bin\Vidly.dll.config
+D:\Cursos\Vidly\Vidly\bin\Vidly.dll
+D:\Cursos\Vidly\Vidly\bin\Vidly.pdb
+D:\Cursos\Vidly\Vidly\bin\roslyn\csc.exe
+D:\Cursos\Vidly\Vidly\bin\roslyn\csc.exe.config
+D:\Cursos\Vidly\Vidly\bin\roslyn\csc.rsp
+D:\Cursos\Vidly\Vidly\bin\roslyn\csi.exe
+D:\Cursos\Vidly\Vidly\bin\roslyn\csi.exe.config
+D:\Cursos\Vidly\Vidly\bin\roslyn\csi.rsp
+D:\Cursos\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cursos\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Cursos\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Console.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.IO.Compression.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.IO.Pipes.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Security.AccessControl.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Security.Claims.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.ValueTuple.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Xml.XPath.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Cursos\Vidly\Vidly\bin\roslyn\vbc.exe
+D:\Cursos\Vidly\Vidly\bin\roslyn\vbc.exe.config
+D:\Cursos\Vidly\Vidly\bin\roslyn\vbc.rsp
+D:\Cursos\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+D:\Cursos\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+D:\Cursos\Vidly\Vidly\bin\Antlr3.Runtime.dll
+D:\Cursos\Vidly\Vidly\bin\AutoMapper.dll
+D:\Cursos\Vidly\Vidly\bin\EntityFramework.dll
+D:\Cursos\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AI.Web.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\Cursos\Vidly\Vidly\bin\Newtonsoft.Json.dll
+D:\Cursos\Vidly\Vidly\bin\Owin.dll
+D:\Cursos\Vidly\Vidly\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Cursos\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+D:\Cursos\Vidly\Vidly\bin\System.ValueTuple.dll
+D:\Cursos\Vidly\Vidly\bin\System.Web.Helpers.dll
+D:\Cursos\Vidly\Vidly\bin\System.Web.Http.dll
+D:\Cursos\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+D:\Cursos\Vidly\Vidly\bin\System.Web.Mvc.dll
+D:\Cursos\Vidly\Vidly\bin\System.Web.Optimization.dll
+D:\Cursos\Vidly\Vidly\bin\System.Web.Razor.dll
+D:\Cursos\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\Cursos\Vidly\Vidly\bin\System.Web.WebPages.dll
+D:\Cursos\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\Cursos\Vidly\Vidly\bin\WebGrease.dll
+D:\Cursos\Vidly\Vidly\bin\AutoMapper.pdb
+D:\Cursos\Vidly\Vidly\bin\AutoMapper.xml
+D:\Cursos\Vidly\Vidly\bin\System.ValueTuple.xml
+D:\Cursos\Vidly\Vidly\bin\System.Web.Helpers.xml
+D:\Cursos\Vidly\Vidly\bin\System.Web.Mvc.xml
+D:\Cursos\Vidly\Vidly\bin\System.Web.Optimization.xml
+D:\Cursos\Vidly\Vidly\bin\System.Web.Razor.xml
+D:\Cursos\Vidly\Vidly\bin\System.Web.WebPages.xml
+D:\Cursos\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\Cursos\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\Cursos\Vidly\Vidly\bin\Newtonsoft.Json.xml
+D:\Cursos\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+D:\Cursos\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+D:\Cursos\Vidly\Vidly\bin\System.Web.Http.xml
+D:\Cursos\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+D:\Cursos\Vidly\Vidly\bin\EntityFramework.xml
+D:\Cursos\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Cursos\Vidly\Vidly\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.AI.Web.xml
+D:\Cursos\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipType.resources
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayToCustomer.resources
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.dll
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.pdb
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicarionUser.resources
+D:\Cursos\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
+D:\Cursos\Vidly\Vidly\bin\Glimpse.Ado.dll
+D:\Cursos\Vidly\Vidly\bin\Glimpse.AspNet.dll
+D:\Cursos\Vidly\Vidly\bin\Glimpse.Core.dll
+D:\Cursos\Vidly\Vidly\bin\Glimpse.EF6.dll
+D:\Cursos\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\ApplicationInsights.config
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Vidly.dll.config
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Vidly.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Vidly.pdb
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\csc.exe
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\csc.exe.config
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\csc.rsp
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\csi.exe
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\csi.exe.config
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\csi.rsp
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Console.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.IO.Compression.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.IO.Pipes.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Security.AccessControl.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Security.Claims.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.ValueTuple.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Xml.XPath.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\vbc.exe
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\vbc.exe.config
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\vbc.rsp
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Antlr3.Runtime.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\AutoMapper.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\EntityFramework.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Glimpse.Ado.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Glimpse.AspNet.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Glimpse.Core.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Glimpse.EF6.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AI.Web.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Newtonsoft.Json.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Owin.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.ValueTuple.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.Helpers.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.Http.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.Mvc.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.Optimization.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.Razor.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.WebPages.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\WebGrease.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\AutoMapper.pdb
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\AutoMapper.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.ValueTuple.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.Helpers.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.Mvc.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.Optimization.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.Razor.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.WebPages.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Newtonsoft.Json.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.Http.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\EntityFramework.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.AI.Web.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipType.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayToCustomer.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicarionUser.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.dll
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.pdb
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
+D:\Repositorios\Cursos\ASP NET MVC\TheCompleteASP.NETMVC5Course\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvalibleToMovie.resources
